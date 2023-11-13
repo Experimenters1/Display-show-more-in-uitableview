@@ -7,3 +7,11 @@
 
 Tổ hợp phím nhấn chụp màn hình ảnh lưu vào bộ nhớ tạm không lưu trên máy  : **Command + shift + Control + 4 + nút cách**  <br><br>
 
+![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/93dbe230-928e-4a55-a62e-cc616370ed23)<br><br>
+
+![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/ce668c93-5d1d-4525-958f-f53daad6c5d2)<br><br>
+
+
+
+
+
