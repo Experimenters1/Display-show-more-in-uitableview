@@ -11,6 +11,7 @@ Tổ hợp phím nhấn chụp màn hình ảnh lưu vào bộ nhớ tạm khôn
 
 ![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/ce668c93-5d1d-4525-958f-f53daad6c5d2)<br><br>
 
+![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/e53a9be5-ec86-4b26-87ff-f23abf6deade)<br><br>
 
 
 
