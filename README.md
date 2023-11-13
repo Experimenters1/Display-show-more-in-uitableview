@@ -6,6 +6,15 @@
 
 ![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/bb088d30-7c0c-4bff-bcb7-2242df6a868f) <br><br>
 
+![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/425a6024-f68a-4e54-a488-6e8321d30487) <br><br>
+
+![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/aad914e5-d8bc-4c3c-a1bc-9b2a3e5939ce) <br><br>
+
+![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/d623b47c-5538-445a-984e-17f10bf68280) <br><br>
+
+
+
+
 
 
 Tổ hợp phím nhấn chụp màn hình ảnh lưu vào bộ nhớ tạm không lưu trên máy  : **Command + shift + Control + 4 + nút cách**  <br><br>
