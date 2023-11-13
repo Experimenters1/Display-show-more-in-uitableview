@@ -4,6 +4,9 @@
 
 ![Screenshot 2023-11-13 at 12 27 28 PM](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/9fbbd12c-e884-4799-84c6-3e0f60aefadd) <br><br>
 
+![image](https://github.com/Experimenters1/Display-show-more-in-uitableview/assets/64000769/bb088d30-7c0c-4bff-bcb7-2242df6a868f) <br><br>
+
+
 
 Tổ hợp phím nhấn chụp màn hình ảnh lưu vào bộ nhớ tạm không lưu trên máy  : **Command + shift + Control + 4 + nút cách**  <br><br>
 
